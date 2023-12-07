@@ -1,0 +1,26 @@
+{
+    "id": "e5e576de-0ccc-4dbc-ac20-c86b86733079",
+    "pipeline_type": "WORKSPACE",
+    "clusters": [
+        {
+            "label": "default",
+            "num_workers": 1
+        }
+    ],
+    "development": true,
+    "continuous": false,
+    "channel": "CURRENT",
+    "photon": false,
+    "libraries": [
+        {
+            "notebook": {
+                "path": "/Users/databricks-amazon@degols.net/dlt"
+            }
+        }
+    ],
+    "name": "dlt_pipeline",
+    "edition": "CORE",
+    "storage": "/dlt",
+    "target": "dlt",
+    "data_sampling": false
+}

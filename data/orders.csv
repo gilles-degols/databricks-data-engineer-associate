@@ -1,0 +1,51 @@
+id;buyer;creation_time;book_id;metadata
+0;Danny Artus;1701424800;66;{"delivery_speed": "express - 1 day", "is_gift": true, "locations": ["Postal Box", "Office"]}
+1;Farica Sucy;1701453600;10;{"delivery_speed": "fast - 2 days", "is_gift": true, "locations": ["Home"]}
+2;Cher Peery;1701493200;93;{"delivery_speed": "slow - 3 days", "is_gift": false, "locations": []}
+3;Cherrita Franchot;1701525600;12;{"delivery_speed": "fast - 2 days", "is_gift": false, "locations": ["Postal Box"]}
+4;Feliza Autum;1701543600;77;{"delivery_speed": "slow - 3 days", "is_gift": false, "locations": []}
+5;Christal Lugo;1701612000;24;{"delivery_speed": "slow - 3 days", "is_gift": false, "locations": []}
+6;Cinnamon Palermo;1701633600;79;{"delivery_speed": "slow - 3 days", "is_gift": true, "locations": ["Office", "Postal Box"]}
+7;Hazel Bishop;1701648000;55;{"delivery_speed": "fast - 2 days", "is_gift": true, "locations": ["Office", "Postal Box"]}
+8;Becka Pruchno;1701669600;25;{"delivery_speed": "slow - 3 days", "is_gift": true, "locations": ["Postal Box", "Home"]}
+9;Leoine Omidyar;1701702000;98;{"delivery_speed": "express - 1 day", "is_gift": false, "locations": ["Office", "Home"]}
+10;Dedie Dinah;1701709200;85;{"delivery_speed": "express - 1 day", "is_gift": true, "locations": []}
+11;Alecia Oran;1701730800;83;{"delivery_speed": "express - 1 day", "is_gift": true, "locations": ["Home", "Office"]}
+12;Madel Woodring;1701774000;58;{"delivery_speed": "express - 1 day", "is_gift": false, "locations": ["Postal Box", "Home"]}
+13;Kial Averir;1701784800;45;{"delivery_speed": "slow - 3 days", "is_gift": true, "locations": []}
+14;Jasmin Lambard;1701856800;95;{"delivery_speed": "fast - 2 days", "is_gift": true, "locations": ["Office", "Home"]}
+15;Brear Abisha;1701907200;30;{"delivery_speed": "fast - 2 days", "is_gift": false, "locations": ["Office", "Home"]}
+16;Naoma Limoli;1701936000;98;{"delivery_speed": "fast - 2 days", "is_gift": true, "locations": []}
+17;Devora Musetta;1701943200;67;{"delivery_speed": "slow - 3 days", "is_gift": true, "locations": ["Postal Box", "Office"]}
+18;Tersina Teufert;1702000800;59;{"delivery_speed": "fast - 2 days", "is_gift": true, "locations": ["Office"]}
+19;Masha Elo;1702008000;51;{"delivery_speed": "slow - 3 days", "is_gift": false, "locations": ["Office", "Home"]}
+20;Kalina Adamec;1702058400;24;{"delivery_speed": "slow - 3 days", "is_gift": false, "locations": ["Office", "Postal Box"]}
+21;Emelita Isleana;1702072800;80;{"delivery_speed": "fast - 2 days", "is_gift": true, "locations": []}
+22;Aloise Heiskell;1702083600;14;{"delivery_speed": "slow - 3 days", "is_gift": true, "locations": ["Postal Box"]}
+23;Ivy Almeria;1702101600;71;{"delivery_speed": "express - 1 day", "is_gift": true, "locations": []}
+24;Lin Shlomo;1702141200;81;{"delivery_speed": "express - 1 day", "is_gift": true, "locations": ["Postal Box", "Office"]}
+25;Lizette Ruella;1702191600;1;{"delivery_speed": "express - 1 day", "is_gift": true, "locations": ["Office"]}
+26;Darcee Haya;1702209600;43;{"delivery_speed": "express - 1 day", "is_gift": false, "locations": ["Home"]}
+27;Annabal Atal;1702281600;46;{"delivery_speed": "express - 1 day", "is_gift": true, "locations": []}
+28;Sunshine Coniah;1702328400;6;{"delivery_speed": "express - 1 day", "is_gift": false, "locations": ["Postal Box"]}
+29;Drucill Rickey;1702364400;38;{"delivery_speed": "fast - 2 days", "is_gift": true, "locations": ["Office"]}
+30;Celesta Caravette;1702414800;15;{"delivery_speed": "fast - 2 days", "is_gift": true, "locations": ["Home"]}
+31;Cherida Pliam;1702472400;21;{"delivery_speed": "fast - 2 days", "is_gift": false, "locations": ["Postal Box"]}
+32;Thomasina Lewls;1702548000;95;{"delivery_speed": "slow - 3 days", "is_gift": false, "locations": []}
+33;Becka Lonnard;1702576800;57;{"delivery_speed": "express - 1 day", "is_gift": true, "locations": ["Office"]}
+34;Vilhelmina Florie;1702634400;74;{"delivery_speed": "slow - 3 days", "is_gift": true, "locations": ["Postal Box"]}
+35;Mickie Encrata;1702656000;67;{"delivery_speed": "express - 1 day", "is_gift": false, "locations": []}
+36;Emylee Chuu;1702710000;27;{"delivery_speed": "slow - 3 days", "is_gift": false, "locations": ["Home"]}
+37;Dalenna Cassandre;1702782000;13;{"delivery_speed": "fast - 2 days", "is_gift": false, "locations": ["Postal Box"]}
+38;Rahel Darill;1702854000;66;{"delivery_speed": "express - 1 day", "is_gift": true, "locations": ["Home", "Office"]}
+39;Karoly Polik;1702911600;1;{"delivery_speed": "express - 1 day", "is_gift": false, "locations": ["Postal Box", "Home"]}
+40;Kare Jonna;1702951200;48;{"delivery_speed": "express - 1 day", "is_gift": false, "locations": ["Office"]}
+41;Jerrie Onder;1703019600;28;{"delivery_speed": "slow - 3 days", "is_gift": false, "locations": ["Office", "Postal Box"]}
+42;Antonella Ireland;1703037600;83;{"delivery_speed": "slow - 3 days", "is_gift": false, "locations": ["Postal Box"]}
+43;Liva Puri;1703091600;95;{"delivery_speed": "slow - 3 days", "is_gift": false, "locations": ["Postal Box", "Home"]}
+44;Essa Howell;1703142000;2;{"delivery_speed": "fast - 2 days", "is_gift": false, "locations": ["Home"]}
+45;Dyane Isleen;1703145600;33;{"delivery_speed": "slow - 3 days", "is_gift": true, "locations": ["Home"]}
+46;Marjy Lombardo;1703181600;30;{"delivery_speed": "express - 1 day", "is_gift": false, "locations": []}
+47;Kerrill Baudelaire;1703217600;77;{"delivery_speed": "slow - 3 days", "is_gift": true, "locations": ["Postal Box"]}
+48;Darcie Kresic;1703228400;58;{"delivery_speed": "fast - 2 days", "is_gift": true, "locations": ["Postal Box", "Home"]}
+49;Carry Oniskey;1703235600;80;{"delivery_speed": "express - 1 day", "is_gift": false, "locations": []}

@@ -1,0 +1,101 @@
+id,title,country,publish_time,pages,price
+0,Things Fall Apart,Nigeria,-378694800,209,16
+1,Fairy tales,Denmark,-4228676250,784,16
+2,The Divine Comedy,Italy,-20669818650,928,10
+3,The Epic Of Gilgamesh,Sumer and Akkadian Empire,0,160,14
+4,The Book Of Job,Achaemenid Empire,0,176,18
+5,One Thousand and One Nights,India/Iran/Iraq/Egypt/Tajikistan,-24298877850,288,17
+6,Njál's Saga,Iceland,-19565281050,384,16
+7,Pride and Prejudice,United Kingdom,-4954436250,226,14
+8,Le Père Goriot,France,-4260212250,443,17
+9,Molloy; Malone Dies; The Unnamable; the trilogy,Republic of Ireland,-568083600,256,15
+10,The Decameron,Italy,-19533745050,1024,19
+11,Ficciones,Argentina,-157770000,224,13
+12,Wuthering Heights,United Kingdom,-3881521050,342,18
+13,The Stranger,Algeria; French Empire,-883620000,185,12
+14,Poems,Romania; France,-568083600,320,14
+15,Journey to the End of the Night,France,-1199232000,505,12
+16,Don Quijote De La Mancha,Spain,-11360477850,1056,11
+17,The Canterbury Tales,England,-16409607450,544,19
+18,Stories,Russia,-2650753050,194,14
+19,Nostromo,United Kingdom,-2082844800,320,18
+20,Great Expectations,United Kingdom,-3439671450,194,19
+21,Jacques the Fatalist,France,-5490893850,596,12
+22,Berlin Alexanderplatz,Germany,-1293840000,600,14
+23,Crime and Punishment,Russia,-3281905050,551,11
+24,The Idiot,Russia,-3187210650,656,11
+25,The Possessed,Russia,-3092602650,768,20
+26,The Brothers Karamazov,Russia,-2840141850,824,15
+27,Middlemarch,United Kingdom,-3124138650,800,17
+28,Invisible Man,United States,-568083600,581,18
+29,Medea,Greece,0,104,11
+30,Absalom; Absalom!,United States,-1073001600,313,15
+31,The Sound and the Fury,United States,-1293840000,326,16
+32,Madame Bovary,France,-3565901850,528,15
+33,Sentimental Education,France,-3187210650,606,19
+34,Gypsy Ballads,Spain,-1325462400,218,20
+35,One Hundred Years of Solitude,Colombia,-94698000,417,13
+36,Love in the Time of Cholera,Colombia,473382000,368,18
+37,Faust,Saxe-Weimar,-4354906650,158,17
+38,Dead Souls,Russia,-4039287450,432,17
+39,The Tin Drum,Germany,-347158800,600,18
+40,The Devil to Pay in the Backlands,Brazil,-441853200,494,14
+41,Hunger,Norway,-2524522650,176,10
+42,The Old Man and the Sea,United States,-568083600,128,18
+43,Iliad,Greece,0,608,10
+44,Odyssey,Greece,0,374,11
+45,A Doll's House,Norway,-2871677850,68,16
+46,Ulysses,Irish Free State,-1514764800,228,20
+47,Stories,Czechoslovakia,-1451692800,488,20
+48,The Trial,Czechoslovakia,-1420070400,160,10
+49,The Castle,Czechoslovakia,-1388534400,352,19
+50,The recognition of Shakuntala,India,-57433623450,147,17
+51,The Sound of the Mountain,Japan,-504925200,288,15
+52,Zorba the Greek,Greece,-757386000,368,13
+53,Sons and Lovers,United Kingdom,-1798761600,432,15
+54,Independent People,Iceland,-1136073600,470,11
+55,Poems,Italy,-4796669850,184,13
+56,The Golden Notebook,United Kingdom,-252464400,688,19
+57,Pippi Longstocking,Sweden,-788922000,160,13
+58,Diary of a Madman,China,-1640998800,389,13
+59,Children of Gebelawi,Egypt,-347158800,355,12
+60,Buddenbrooks,Germany,-2177452800,736,18
+61,The Magic Mountain,Germany,-1451692800,720,17
+62,Moby Dick,United States,-3755290650,378,11
+63,Essays,France,-11833863450,404,11
+64,History,Italy,126226800,600,15
+65,Beloved,United States,536454000,321,18
+66,The Tale of Genji,Japan,-30420922650,1360,17
+67,The Man Without Qualities,Austria,-1230768000,365,11
+68,Lolita,Russia/United States,-473389200,317,14
+69,Nineteen Eighty-Four,United Kingdom,-662691600,272,18
+70,Metamorphoses,Roman Empire,-59011460250,576,14
+71,The Book of Disquiet,Portugal,-1325462400,272,11
+72,Tales,United States,-631155600,842,18
+73,In Search of Lost Time,France,-1577923200,2408,15
+74,Gargantua and Pantagruel,France,-13790391450,623,18
+75,Pedro Páramo,Mexico,-473389200,124,13
+76,The Masnavi,Sultanate of Rum,-23162804250,438,19
+77,Midnight's Children,United Kingdom; India,347151600,536,18
+78,Bostan,Persia; Persian Empire,-22500029850,298,19
+79,Season of Migration to the North,Sudan,-126234000,139,14
+80,Blindness,Portugal,788914800,352,17
+81,Hamlet,England,-11581402650,432,11
+82,King Lear,England,-11423636250,384,19
+83,Othello,England,-11392013850,314,16
+84,Oedipus the King,Greece,0,88,15
+85,The Red and the Black,France,-4417978650,576,19
+86,The Life And Opinions of Tristram Shandy,England,-6626967450,640,13
+87,Confessions of Zeno,Italy,-1483228800,412,14
+88,Gulliver's Travels,Ireland,-7699882650,178,12
+89,War and Peace,Russia,-3250369050,1296,13
+90,Anna Karenina,Russia,-2934749850,864,12
+91,The Death of Ivan Ilyich,Russia,-2650753050,92,10
+92,The Adventures of Huckleberry Finn,United States,-2713911450,224,19
+93,Ramayana,India,0,152,20
+94,The Aeneid,Roman Empire,0,442,14
+95,Mahabharata,India,0,276,17
+96,Leaves of Grass,United States,-3629060250,152,11
+97,Mrs Dalloway,United Kingdom,-1420070400,216,11
+98,To the Lighthouse,United Kingdom,-1356998400,209,20
+99,Memoirs of Hadrian,France/Belgium,-599619600,408,12
